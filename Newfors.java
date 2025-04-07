@@ -10,4 +10,4 @@ public class Newfors {
     }
 }
 //breaks: Detiene el lopp por completo
-//Continue: Detiene iteracion actual y salta a la siguiente
+//Continue: Detiene iteracion actual y salta a la siguiente≠
